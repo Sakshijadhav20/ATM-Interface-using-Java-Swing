@@ -26,15 +26,6 @@ A simple ATM Interface application implemented in Java Swing.
     javac ATMApp.java
     java ATMApp
 
-2. Follow the on-screen prompts to use the ATM Interface.
-   ![Welcome Page](ATMINTERFACE/Screenshots/WelcomePage.jpg)
-   ![Login Page](ATMINTERFACE/Screenshots/LoginPage.jpg)
-   ![Deposit Page](ATMINTERFACE/Screenshots/Deposit Page.jpg)
-   ![Deposit Reciept](ATMINTERFACE/Screenshots/Deposit Reciept.jpg)
-   ![Transfer Page](ATMINTERFACE/Screenshots/Transfer Amount.jpg)
-   ![ Transation History](ATMINTERFACE/Screenshots/Transaction History.jpg)
-   
-
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
