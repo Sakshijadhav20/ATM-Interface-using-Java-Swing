@@ -23,7 +23,9 @@ A simple ATM Interface application implemented in Java Swing.
 1. Compile and run the Java application:
 
     cd atm-interface-app
+
     javac ATMApp.java
+
     java ATMApp
 
 
